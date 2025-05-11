@@ -1,4 +1,4 @@
-<details>	
+
 
 # 👋 Welcome to My GitHub Profile
 
@@ -25,24 +25,6 @@ Hi there! I'm a passionate **developer** with a strong focus on **web developmen
 - **LinkedIn**: [https://www.linkedin.com/in/avya-giri-919842320/](https://linkedin.com/in/your-linkedin)
 
 
-## 🎯 Coding Animation Example
-
-Here’s a little animation that represents coding in action, just to make things a bit more fun:
-
-```plaintext
-Starting the Code... 🚀
-
-Initializing project... 🔧
-[##############################] 100%
-Compiling assets... ⚙️
-[##############################] 100%
-Executing code... 🎯
-[##############################] 100%
-
-Code Running...
-✨✨✨
-
-SUCCESS!
 
 
 
@@ -51,9 +33,7 @@ SUCCESS!
 
 
 
-
-
-
+<details>	
  
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
