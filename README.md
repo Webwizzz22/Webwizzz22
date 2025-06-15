@@ -1,4 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello+World!;I'm+Webwizzz22;Welcome+to+my+Profile!)
 
 # 👋 Welcome to My GitHub Profile
 
