@@ -1,4 +1,4 @@
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello+World!;I'm+Webwizzz22;Welcome+to+my+Profile!)
 
 # 👋 Welcome to My GitHub Profile
 
@@ -25,6 +25,12 @@ Hi there! I'm a passionate **developer** with a strong focus on **web developmen
 - **LinkedIn**: [https://www.linkedin.com/in/avya-giri-919842320/](https://linkedin.com/in/your-linkedin)
 
 
+
+
+![Blue Line](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Blue%20Line.gif)
+
+
+![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/Webwizzz22?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
 
 
 
