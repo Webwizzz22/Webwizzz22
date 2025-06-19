@@ -33,11 +33,6 @@ Hi there! I'm a passionate **developer** with a strong focus on **web developmen
 
 
 
-
-
-
-
-
 <details>	
  
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
