@@ -1,36 +1,50 @@
-
-# 👋 Welcome to My GitHub Profile
-
-Hi there! I'm a passionate **developer** with a strong focus on **web development**, **AI/ML**, and **cybersecurity**. I'm always looking to expand my knowledge and work on innovative projects that have real-world applications.
-
-## 💻 Technologies & Tools
-- **Frontend**: React, HTML, CSS, JavaScript, Tailwind CSS
-- **Backend**: Node.js, Express, MongoDB
-- **Other Technologies**: Python, Firebase, Git, GitHub, CI/CD
-- **Learning**: Blockchain, AI/ML, and mobile app development with React Native.
-
-## 🌱 What I’m Currently Learning:
-- Exploring **AI/ML** frameworks and implementing models.
-- Diving deeper into **Blockchain** technologies, particularly smart contracts.
-- Building mobile applications with **React Native**.
-
-## 🔧 What I’m Working On:
-- Developing full-stack web applications using **React** and **Node.js**.
-- Working on securing applications and learning advanced **cybersecurity** techniques.
-- Collaborating on open-source projects to contribute to the community.
-
-## 📫 How to Reach Me:
-- **Email**: [Avyagiri05@gmail.com](mailto:youremail@example.com)
-- **LinkedIn**: [https://www.linkedin.com/in/avya-giri-919842320/](https://linkedin.com/in/your-linkedin)
+<h1 align="center">Hey 👋, I'm Avya</h1>
+<h3 align="center">Full Stack Developer | AI/ML Explorer | ECE Engineer | Cybersec Enthusiast</h3>
 
 
+---
+
+## 🧠 About Me
+
+- 🎓 ECE student | 🚀 Exploring the intersection of hardware and software  
+- 💻 Passionate about Web Dev, AI, and Cybersecurity  
+- 🧰 Currently working with **React, Node, Supabase, and LangChain**  
+- 🌱 Learning  **Prompt Engineering**, and **Blockchain Basics**  
+- 🛠️ Open to collaborations and community building projects
+
+---
+
+## 🔧 Tech Stack 
+
+**Languages & Core:**
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+**Frontend:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend & Databases:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 
-![Blue Line](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Blue%20Line.gif)
+**DevOps / Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
+**AI & LLMs:**
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/Webwizzz22?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
-
+---
 
 
 <details>	
