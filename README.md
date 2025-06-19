@@ -1,16 +1,19 @@
 <h1 align="center">Hey 👋, I'm Avya</h1>
-<h3 align="center">Full Stack Developer | AI/ML Explorer | ECE Engineer | Cybersec Enthusiast</h3>
+<h3 align="center">Full Stack Developer | AI/ML Explorer | Cybersec Enthusiast</h3>
+
+
 
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🎓 ECE student | 🚀 Exploring the intersection of hardware and software  
 - 💻 Passionate about Web Dev, AI, and Cybersecurity  
 - 🧰 Currently working with **React, Node, Supabase, and LangChain**  
 - 🌱 Learning  **Prompt Engineering**, and **Blockchain Basics**  
 - 🛠️ Open to collaborations and community building projects
+
+
 
 ---
 
