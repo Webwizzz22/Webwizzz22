@@ -3,7 +3,6 @@
 
 
 
-
 ---
 
 ##  About Me
@@ -57,6 +56,24 @@
 
 ---
 
+
+
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=Webwizzz22&theme=transparent&hide_border=true)
+
+
+
+---
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Webwizzz22&theme=transparent"/>
+
+
+
+
+
+
+
+
+---
 
 
 <details>	
