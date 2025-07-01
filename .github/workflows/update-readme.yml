@@ -20,5 +20,10 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Auto-update GitHub stats"
-          git push
+              if ! git diff --cached --quiet; then
+              git commit -m "Auto-update GitHub stats"
+              git push
+              else
+              echo "No changes to commit."
+ 
+
