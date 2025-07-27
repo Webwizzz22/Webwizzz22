@@ -7,9 +7,9 @@
 
 ##  About Me
 
-- 💻 Passionate about Web Dev, AI, and Cybersecurity  
+- 💻 Passionate about Web Dev, AI/ML, and Cybersecurity  
 - 🧰 Currently working with **React, Node, Supabase, and LangChain**  
-- 🌱 Learning  **Prompt Engineering**, and **Blockchain Basics**  
+- 🌱 Learning  **Agentic AI**, and **Blockchain**  
 - 🛠️ Open to collaborations and community building projects
 
 
